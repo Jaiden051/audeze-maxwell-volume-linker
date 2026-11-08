@@ -1,0 +1,6 @@
+# Temporary build artifacts
+IconGen.exe
+GenerateIcon.cs
+*.pdb
+*.user
+.vs/
