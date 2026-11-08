@@ -1,6 +1,8 @@
 # Audeze Maxwell Volume Linker
 
-I wanted a way to control both streams of audio from my Audeze Maxwell (game and chat) from my keyboard's volume roller on Windows. As I lack the skills and cannot be bothered to learn I tasked AI to do it, I imagine it is not of the greatest quality and it could be better but it does work for me on Windows 10, it auto launches and automatically re links the volume after disconnecting and reconnecting. Feel free to do whatever you want and I hope someone else with this niche issue finds this and enjoys it, thank you! everything after this is AI generated.
+I wanted a way to control both streams of audio from my Audeze Maxwell (game and chat) from my keyboard's volume roller on Windows. As I lack the skills and cannot be bothered to learn I tasked AI to do it, I imagine it is not of the greatest quality and it could be better but it does work for me on Windows 10, it auto launches and automatically re links the volume after disconnecting and reconnecting. Feel free to do whatever you want and I hope someone else with this niche issue finds this and enjoys it, thank you! p.s I have no clue what gemini did with my name as the contributor
+
+everything after this is AI generated.
 
 A lightweight, zero-dependency Windows system tray utility that automatically links the volume and mute state between **Speakers (Game-Audeze Maxwell)** and **Speakers (Chat-Audeze Maxwell)** (or any two chosen audio output devices) in real time.
 
